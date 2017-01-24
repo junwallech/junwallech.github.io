@@ -14,7 +14,7 @@ body {
     }
    header {
       text-align: center;
-      background: url;
+      background: url(); 
       background-size: cover;
       color: rgb(233,78,119); 
       }
